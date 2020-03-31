@@ -1,11 +1,12 @@
 ---
-title: Get in Touch
+title: Talk to Us
 img_path: images/contact.jpg
-menus:
+layout: contact
+subtitle: 'We love hearing from our friends! '
+menu:
   main:
-    title: Contact
+    name: Contact
     weight: 6
-template: contact
----
 
+---
 Fill the form below to get in touch with me.
